@@ -1,0 +1,12 @@
+{
+  "name": "boyddesignstudio/koopersmith",
+  "description": "Client billing system",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Christopher Boyd",
+      "email": "chris@boyddesignstudio.com"
+    }
+  ]
+}
